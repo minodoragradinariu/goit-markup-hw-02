@@ -19,7 +19,9 @@ body{
     color: #4d5ae5;
 
 }
-
+.span-logo{
+    color: #2e2f42;
+}
 .header-link {
     font-weight: 500;
     line-height: 1.5;
@@ -28,10 +30,10 @@ body{
 
 }
 
-.header-link:hover {
+.header-item:hover {
 color: #404bbf;
 }
-.header-link:focus {
+.header-item:focus {
     color: #404bbf;
 }
 .address {
