@@ -29,7 +29,12 @@ body{
     color: #2e2f42;
 
 }
-
+.header-link:hover {
+    color: #404bbf;
+    }
+.header-link:focus {
+    color: #404bbf;
+    }
 .header-item:hover {
 color: #404bbf;
 }
@@ -50,16 +55,29 @@ font-style: normal;
 .address-link:focus{
     color: #404bbf;
 }
+.section1 {
+background-color: #2e2f42;
+
+}
+.section1-title {
+font-size: 56px;
+line-height: 1.07;
+text-align: center;
+letter-spacing: 0.02em;
+color: #ffffff;
+}
 
 .button {
-    width: 210px;
-height: 159px;
-gap: 0px;
-border: 1px 0px 0px 0px;
-opacity: 0px;
-
+    background-color: #4d5ae5;
+    color: #ffffff;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
 }
 
 .button:hover {
-color: #404BBF;
+    background-color: #404bbf;
+}
+.button.focus {
+    background-color: #404bbf;
 }
