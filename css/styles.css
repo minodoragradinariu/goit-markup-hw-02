@@ -42,10 +42,10 @@ font-style: normal;
     letter-spacing: 0.02em;
     color: #434455;
 }
-.address-link: :hover{
+.address-link:hover{
     color: #404bbf;
 }
-.address-link: focus{
+.address-link:focus{
     color: #404bbf;
 }
 
