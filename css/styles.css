@@ -80,8 +80,8 @@ color: #ffffff;
     background-color: #404bbf;
 }
 
-.button:focus{
-    background-color: #404bbf;
+.button:focus {
+    background: #404bbf;
 }
 
 .second-section-title {
