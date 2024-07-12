@@ -55,11 +55,11 @@ font-style: normal;
 .address-link:focus{
     color: #404bbf;
 }
-.section1 {
+.first-section {
 background-color: #2e2f42;
 
 }
-.section1-title {
+.first-section-title {
 font-size: 56px;
 line-height: 1.07;
 text-align: center;
